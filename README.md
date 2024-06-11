@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
-      <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
-    </a>
+   
   
   <br />
 
@@ -14,14 +12,13 @@
 
   <h3 align="center">A Zoom Clone</h3>
 
-   <div align="center">
-     
-    </div>
-</div>
-
 - Next.js
 - TypeScript
 - Clerk
 - getstream
 - shadcn
 - Tailwind CSS
+
+   
+</div>
+
